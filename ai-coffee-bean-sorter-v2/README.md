@@ -58,6 +58,6 @@ python classifier.py
 - Test Accuracy: 82.24%
 - Confusion Matrix included in `images/`
 
-## 📄 License
+##  License
 
 MIT License
